@@ -1,0 +1,6 @@
+# 【毕设】jsp575固定资产管理系统ssh毕业设计
+
+免费安装<br>技术实现开发语言:example.com:example.com:B/example.com:mysql,sqlserver,example.com:myeclipse eclipse example.com:1万左右.<br>功能实现本系统主要分为四大模块：<br>资产管理模块：根据不同资产的编号对资产进行购入、销毁、修改属性和多种组合条件的查询操作等，里面包括相应的逻辑验证及提示。对资产维护的增加维修设备、删除已经维修好的信息、查询操作；支持对固定资产库存报表的多种格式打印。<br>用户管理模块：可直接添加员工成为用户并为其分配不同的权限，管理员权限是本系统的权限，可以对所有的设备和人员进行维护、查询等操作。操作员不拥有分配权限的功能，可以完成除了此模块之外的所有功能，如：首先，可对资产进行录入、所有资产不同方式的查询、销毁某些设备、修改设备属性信息及对设备进行借出归还状态的跟踪和更改，及时更新设备的所处状态和库存设备的全部信息等。其次可对员工进行的增加、删除、修改信息和查询等相应的维护，可以将库存设备信息根据不同需求打印出来。<br>员工管理：支持对学校的教工信息的维护，包括新增员工、删除员工、修改员工所处状态和对员工进行明细查询等。<br>系统管理：修改登陆用户的登录密码及安全退出系统，保证系统的正常运行<br>系统截图 <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ZxSqH" style="color: red;">https://mega-file.org/ZxSqH</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
